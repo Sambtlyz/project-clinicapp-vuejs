@@ -1,0 +1,3 @@
+1. แบ่ง Teminal ออกเป็น 2 หน้าต่าง
+2. ทำการ cd back เข้าโฟล์เดอร์ backend แล้วพิมคำสั่ง npm install  และตามด้วย npm install -g nodemon    **คำสั่ง run backend ---nodemon server.js--- **
+3. เลือกหน้าต่าง Terminal ที่เป็นหน้าแรก ตาม path ของที่อยู่ project แล้วพิมคำสั่ง npm install  ** คำสั่ง run project ---npm run server--- **

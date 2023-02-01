@@ -1,0 +1,78 @@
+ติดตั้งก่อนที่จะใช้
+ส่วนของ backend
+
+1.npm init -y
+2.npm add express body-parser formidable fs-extra  //สร้าง Node_Module
+3.npm add express body-parser formidable fs-extra cors
+4.npm i -g nodemon
+
+คำสั่งรัน npx nodemon ตามด้วยชื่อไฟล์
+
+
+
+{
+            id: '1',
+            image: 'ss',
+            CustomNo: 'C0001',
+            FirstnameLastname: 'นายณัฐพล อัยวรรณ',
+            CardNo: '1469900455210',
+            Sex:'ชาย',
+            PhoneNumber:'0610645033',
+            ImportDate:'24 มี.ค 2564',
+            Status:'ปกติ'
+          },
+          {
+            id: '2',
+            image: 'ss',
+            CustomNo: 'C0001',
+            FirstnameLastname: 'นายณัฐพล อัยวรรณ',
+            CardNo: '1469900455210',
+            Sex:'ชาย',
+            PhoneNumber:'0610645033',
+            ImportDate:'24 มี.ค 2564',
+            Status:'ปกติ'
+          },
+          {
+            id: '3',
+            image: 'ss',
+            CustomNo: 'C0001',
+            FirstnameLastname: 'นายณัฐพล อัยวรรณ',
+            CardNo: '1469900455210',
+            Sex:'ชาย',
+            PhoneNumber:'0610645033',
+            ImportDate:'24 มี.ค 2564',
+            Status:'ปกติ'
+          },
+          {
+            id: '4',
+            image: 'ss',
+            CustomNo: 'C0001',
+            FirstnameLastname: 'นายณัฐพล อัยวรรณ',
+            CardNo: '1469900455210',
+            Sex:'ชาย',
+            PhoneNumber:'0610645033',
+            ImportDate:'24 มี.ค 2564',
+            Status:'ปกติ'
+          },
+          {
+            id: '5',
+            image: 'ss',
+            CustomNo: 'C0001',
+            FirstnameLastname: 'นายณัฐพล อัยวรรณ',
+            CardNo: '1469900455210',
+            Sex:'ชาย',
+            PhoneNumber:'0610645033',
+            ImportDate:'24 มี.ค 2564',
+            Status:'ปกติ'
+          },
+          {
+            id: '6',
+            image: 'ss',
+            CustomNo: 'C0001',
+            FirstnameLastname: 'นายณัฐพล อัยวรรณ',
+            CardNo: '1469900455210',
+            Sex:'ชาย',
+            PhoneNumber:'0610645033',
+            ImportDate:'24 มี.ค 2564',
+            Status:'ปกติ'
+          },
